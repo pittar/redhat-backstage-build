@@ -1,0 +1,8 @@
+.yarn/*
+**/dist
+**/node_modules
+plugins
+*.local.yaml
+coverage
+dist-types
+examples
